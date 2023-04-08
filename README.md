@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Full-Stack Development and Programming.**
 
-- 📝 I'm currently **MS student in Computer Science/Informatics at Ankara University.**
+- 📝 I'm **MS student in Computer Science/Informatics at Ankara University.**
 
-- 📫 How to reach me **ozgeozyurt00@gmail.com**
+- 📫 You can reach me **ozgeozyurt00@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
